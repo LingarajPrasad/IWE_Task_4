@@ -13,3 +13,5 @@ Configure a Free Style job to get triggered from both remote script and webhook 
 The job should build an image from the repository and the push the same image to the docker hub.
 
 The job should run on the worker machine not on master.
+
+v0.0.1
