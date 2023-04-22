@@ -15,3 +15,4 @@ The job should build an image from the repository and the push the same image to
 The job should run on the worker machine not on master.
 
 v0.0.1
+v0.0.2
